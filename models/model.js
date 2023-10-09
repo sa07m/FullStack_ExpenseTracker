@@ -26,3 +26,4 @@ const expenseModel = sequelize.define('expense',{
 })
 
 module.exports = expenseModel
+

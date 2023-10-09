@@ -6,3 +6,4 @@ const sequelize = new Sequelize('node-complete','root','36@Chinatown',{
 })
 
 module.exports=sequelize
+
